@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppsDogAddop</string>
+    <string name="_500_rb" />
+    <string name="anjing_golden" />
+    <string name="content_text" />
+    <string name="deskripsi" />
+    <string name="tipe" />
+    <string name="golden" />
+    <string name="jenis_kelamin" />
+    <string name="jantan" />
+    <string name="umur" />
+    <string name="_1_tahun" />
+    <string name="ciri_ciri" />
+    <string name="ciri_khas" />
+    <string name="pemilik" />
+</resources>
